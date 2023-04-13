@@ -114,6 +114,7 @@ You do NOT have to install all models, you can install one by one. Let's take a 
 ## Docker compose
 
 Requires that you have docker installed and running.
+see: https://docs.docker.com/engine/install/ubuntu/
 ```
 docker compose build
 docker compose run dalai npx dalai alpaca install 7B # or a different model
